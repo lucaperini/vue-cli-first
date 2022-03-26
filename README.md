@@ -1,5 +1,5 @@
 # vue-cli-first
-
+Esercitazione 25 marzo classe #55
 ## Project setup
 ```
 npm install
